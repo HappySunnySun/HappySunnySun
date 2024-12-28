@@ -1,6 +1,6 @@
 # Hi ! 👋
 <div>
-    <img align="center" width="50%" src="https://media1.tenor.com/m/XLnZZ0sIsQ4AAAAd/wallace-wells-wallace.gif>
+<img align="center" width="50%" src="https://media1.tenor.com/m/XLnZZ0sIsQ4AAAAd/wallace-wells-wallace.gif>
 </div>
 
 # My bio 💬
