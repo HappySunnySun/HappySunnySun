@@ -6,4 +6,4 @@ My name is Sun. I'm a 17 years ols student in France in alsace 🥨
 </picture>
 
 -   :pencil2: Python / HTML / CSS / JavaScript 
--   📱 [https://www.youtube.com/@HappySunnySun](Youtube)
+-   📱 [Youtube](https://www.youtube.com/@HappySunnySun)
