@@ -1,6 +1,6 @@
 <div align="center">
 <img src=" width="25%" align="right" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F5F700&center=true&multiline=true&width=435&lines=Sun;The+sun+who+bring+you+joy+and+happiness)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F5F700&center=true&multiline=true&width=435&lines=Sun;The+sun+who+bring+you+joy+and+happiness)](https://git.io/typing-svg)
 <br><br>
 <pre>
     👨 17 ans • Il/Lui
