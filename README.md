@@ -1,19 +1,19 @@
-# Hi ! 👋
-![Wallace Wells waving](https://github.com/HappySunnySun/HappySunnysun/blob/main/wallace-wells-wallace.gif)
-
-# My bio 💬
-<div style="display: flex; align-items: center;">
-  <img src='https://github.com/HappySunnySun/HappySunnysun/blob/main/01288b4c742d16eaa964f4e285aa60f2.png' width='200' style="margin-right: 20px;"/>
-  <span>My name is Sun. I'm a 17 years old student in France in Alsace 🇫🇷🥨</span>
+<div align="center">
+<img src=" width="25%" align="right" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F5F700&center=true&multiline=true&width=435&lines=Sun;The+sun+who+bring+you+joy+and+happiness)](https://git.io/typing-svg)
+<br><br>
+<pre>
+    👨 17 ans • Il/Lui
+    💼 Etudiant au lycée
+    🏳️‍🌈 LGBTQIA+ • Femboy
+    🎮 Musique • Jeu-vidéos • Anime/Manga • Code
+    ☀️ Toujours heureux :3 
+</pre>
+<br><br>
+<img src="" height="40" />
+<br><br><br>
+    
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/HappySunnySun)
+![Twitch Status](https://img.shields.io/twitch/status/happysunnysun_)
+![https://img.shields.io/badge/osu!-ff66ab](https://osu.ppy.sh/users/ntg_18)
 </div>
-
-# Programmation languages I use ✏️
-
-# Projects I made / I'm working on 📝
-- [WiiRPC](https://github.com/HappySunnySun/WiiRPC) (WIP)  
-- [CG5News Website](https://github.com/HappySunnySun/CG5News)
-
-# My socials 📱
-
-# Projects I like ✨
-- [WiiLink](https://github.com/wiilink24)
