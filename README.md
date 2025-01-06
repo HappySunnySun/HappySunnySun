@@ -3,7 +3,7 @@
 
 # My bio 💬
 My name is Sun. I'm a 17 years old student in France in Alsace 🇫🇷🥨
-<img src='https://github.com/HappySunnySun/HappySunnysun/blob/main/01288b4c742d16eaa964f4e285aa60f2.png' width='200' style="float: left; margin-right: 20px;"/>  
+<img src='https://github.com/HappySunnySun/HappySunnysun/blob/main/01288b4c742d16eaa964f4e285aa60f2.png' width='200' style="float: left"/>  
 
 # Programmation languages I use ✏️
 
