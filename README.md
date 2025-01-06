@@ -1,5 +1,4 @@
 <div align="center">
-<img src=" width="25%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=000000&center=true&multiline=true&width=435&lines=Sun+%E2%98%80%EF%B8%8F;The+boyo+who+code" alt="Typing SVG" /></a>
 <br><br>
 <pre>
