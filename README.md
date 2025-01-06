@@ -9,7 +9,8 @@
     ☀️ Toujours heureux :3 
 </pre>
 <br><br>
-<img src="wallpaperflare.com_wallpaper(2).jpg" height="40" />
+<img src="wallpaperflare.com_wallpaper(2).jpg" height="50%" />
+
 <br><br><br>
     
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/HappySunnySun)
