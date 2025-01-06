@@ -1,6 +1,6 @@
 <div align="center">
 <img src=" width="25%" align="right" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=000000&center=true&multiline=true&width=435&lines=Sun;The+boyo+who+code)](https://git.io/typing-svg)
+[https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=000000&center=true&multiline=true&width=435&lines=Sun;The+boyo+who+code](https://git.io/typing-svg)
 <br><br>
 <pre>
     👨 17 ans • Il/Lui
