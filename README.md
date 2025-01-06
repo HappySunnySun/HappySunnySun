@@ -1,29 +1,34 @@
-Hi ! 👋
+# Hi ! 👋
 
 ![Wallace Wells waving](https://github.com/HappySunnySun/HappySunnysun/blob/main/wallace-wells-wallace.gif)
 
----
+<br>
 
-My bio 💬
+# My bio 💬
 
-<img align='left' src='https://github.com/HappySunnySun/HappySunnysun/blob/main/01288b4c742d16eaa964f4e285aa60f2.png' width='200'/>
+<img src='https://github.com/HappySunnySun/HappySunnysun/blob/main/01288b4c742d16eaa964f4e285aa60f2.png' width='200'/>
+
+<br>  
+
 My name is Sun. I'm a 17 years old student in France in Alsace 🇫🇷🥨
 
----
+<br>
 
-Programmation languages I use ✏️
+# Programmation languages I use ✏️
 
----
+<br>
 
-Projects I made / I'm working on 📝
-- [WiiRPC](https://github.com/HappySunnySun/WiiRPC) (WIP)
+# Projects I made / I'm working on 📝
+
+- [WiiRPC](https://github.com/HappySunnySun/WiiRPC) (WIP)  
 - [CG5News Website](https://github.com/HappySunnySun/CG5News)
 
----
+<br>
 
-My socials 📱
+# My socials 📱
 
----
+<br>
 
-Projects I like ✨
+# Projects I like ✨
+
 - [WiiLink](https://github.com/wiilink24)
