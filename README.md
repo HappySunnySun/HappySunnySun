@@ -12,7 +12,7 @@
 <img src="wallpaperflare.com_wallpaper(2).jpg" height="50%" />
 
 <br><br><br>
-<img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" a="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+![](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)
 ![](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![](https://img.shields.io/badge/osu!-FF66AA.svg?style=for-the-badge&logo=osu!&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
