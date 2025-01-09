@@ -16,4 +16,5 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/HappySunnySun)
 ![Twitch Status](https://img.shields.io/twitch/status/happysunnysun_)
 ![https://img.shields.io/badge/osu!-ff66ab](https://osu.ppy.sh/users/NTG_)
+![](https://dcbadge.limes.pink/api/shield/893137582186192966)
 </div>
