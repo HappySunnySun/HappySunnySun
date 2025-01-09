@@ -12,9 +12,8 @@
 <img src="wallpaperflare.com_wallpaper(2).jpg" height="50%" />
 
 <br><br><br>
-    
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/HappySunnySun)
-![Twitch Status](https://img.shields.io/twitch/status/happysunnysun_)
-![https://img.shields.io/badge/osu!-ff66ab](https://osu.ppy.sh/users/NTG_)
-![](https://dcbadge.limes.pink/api/shield/893137582186192966)
-</div>
+![happysunnysun_](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
+![[Sun ☀](https://www.youtube.com/@HappySunnySun)](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![](https://img.shields.io/badge/osu!-FF66AA.svg?style=for-the-badge&logo=osu!&logoColor=white)
+![](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
