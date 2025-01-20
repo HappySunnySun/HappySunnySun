@@ -8,23 +8,19 @@ Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir
 
 - Mon film préféré : Elémentaire 💧🔥❤️
 - Ma série préférée : Scott Pilgrim Prend Son Envol (Wallace Wells le GOAT)
-- Ma musique préférée : [High - *CG5*](https://www.youtube.com/watch?v=veJ14e5yqNU)
+- Ma musique préférée : [High - CG5](https://www.youtube.com/watch?v=veJ14e5yqNU)
 - Mon artiste préféré : [CG5](https://www.youtube.com/@CG5/videos)
-- Mon anime préféré :
+- Mon anime préféré : Spy X Familly
 
 Voilà ma playlist avec mes sons favoris ✨ : https://www.deezer.com/us/playlist/13385903223
 
+Je suis aussi ouvert d'esprit et toujours ouvert a la discussion avec les autres !
 
 ## 🛠️ Langages de programmation
 
-- **Python :**
-  - Automatisation de tâches.
-  - Développement de bots (Discord et autres).
-- **JavaScript :**
-  - Création de bots Discord avec `discord.js`.
-  - Développement front-end pour des sites simples mais efficaces.
-- **HTML/CSS :**
-  - Pour ajouter une touche visuelle à mes projets.
+- **Python** 🐍
+- **JavaScript** 📜
+- **HTML/CSS** 🌐
 
 ## 📂 Projets sur lesquels je travaille
 
