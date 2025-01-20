@@ -5,9 +5,18 @@ Hey~! Bienvenue sur mon profil GitHub !
 ---
 
 ## 👤 À propos de moi
-- **Nom :** Sun ☀️
-- **Passions :** Lire des mangas, regarder des animes et coder des projets fun.
-- **Statut :** Etudiant pour devenir dévloppeur informatique
+
+Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir développeur informatique (domaine à définir :3). Dans la vie j'aime lire des mangas et regarder des animes, écouter **beaucoup** de musique.
+
+Mon film préféré : Elémentaire 💧🔥❤️
+Ma série préférée : Scott Pilgrim Prend Son Envol (Wallace Wells le GOAT)
+Ma musique préférée : [High - [*CG5*](https://www.youtube.com/@CG5/videos)(https://www.youtube.com/watch?v=veJ14e5yqNU)
+Mon artiste préféré : [CG5](https://www.youtube.com/@CG5/videos)
+Mon anime préféré :
+
+Voilà ma playlist avec mes sons favoris ✨
+
+<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/13385903223" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
 ---
 
 ## 🛠️ Langages de programmation
