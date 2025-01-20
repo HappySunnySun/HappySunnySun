@@ -10,7 +10,7 @@ Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir
 
 - Mon film préféré : Elémentaire 💧🔥❤️
 - Ma série préférée : Scott Pilgrim Prend Son Envol (Wallace Wells le GOAT)
-- Ma musique préférée : [High - [*CG5*](https://www.youtube.com/@CG5/videos)(https://www.youtube.com/watch?v=veJ14e5yqNU)
+- Ma musique préférée : [High - *CG5*](https://www.youtube.com/watch?v=veJ14e5yqNU)
 - Mon artiste préféré : [CG5](https://www.youtube.com/@CG5/videos)
 - Mon anime préféré :
 
