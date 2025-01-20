@@ -12,7 +12,7 @@ Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir
 - Mon artiste préféré : [CG5](https://www.youtube.com/@CG5/videos)
 - Mon anime préféré :
 
-Voilà ma playlist avec mes sons favoris ✨ : (https://www.deezer.com/us/playlist/13385903223)[https://www.deezer.com/us/playlist/13385903223]
+Voilà ma playlist avec mes sons favoris ✨ : https://www.deezer.com/us/playlist/13385903223
 
 
 ## 🛠️ Langages de programmation
