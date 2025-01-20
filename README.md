@@ -16,7 +16,8 @@ Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir
 
 Voilà ma playlist avec mes sons favoris ✨
 
-<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/13385903223" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/13385903223" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write">  
+</iframe>
 ---
 
 ## 🛠️ Langages de programmation
