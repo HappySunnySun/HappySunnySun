@@ -2,8 +2,6 @@
 
 Hey~! Bienvenue sur mon profil GitHub !
 
----
-
 ## 👤 À propos de moi
 
 Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir développeur informatique (domaine à définir :3). Dans la vie j'aime lire des mangas et regarder des animes, écouter **beaucoup** de musique.
@@ -14,13 +12,8 @@ Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir
 - Mon artiste préféré : [CG5](https://www.youtube.com/@CG5/videos)
 - Mon anime préféré :
 
-Voilà ma playlist avec mes sons favoris ✨
+Voilà ma playlist avec mes sons favoris ✨ : (https://www.deezer.com/us/playlist/13385903223)[https://www.deezer.com/us/playlist/13385903223]
 
-<html>
-<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/13385903223" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write">  
-</iframe>
-</html>
----
 
 ## 🛠️ Langages de programmation
 
@@ -33,8 +26,6 @@ Voilà ma playlist avec mes sons favoris ✨
 - **HTML/CSS :**
   - Pour ajouter une touche visuelle à mes projets.
 
----
-
 ## 📂 Projets sur lesquels je travaille
 
 ### 🌸 Bot Discord "Mangabot"
@@ -42,14 +33,10 @@ Voilà ma playlist avec mes sons favoris ✨
 - Permet une personnalisation unique pour chaque utilisateur.
 - Données sauvegardées indépendamment pour chaque serveur Discord.
 
----
-
 ## 🌟 Reste en contact
 - **Discord :** Mangaka#1234 *(ou ton pseudo)*
 - **GitHub :** Explore mes projets et n’hésite pas à contribuer ou à discuter avec moi.
 
----
-
-Arigatou d’avoir pris le temps de visiter mon profil ✨ ! Si tu veux discuter d'anime, de manga ou de projets de code, je suis toujours partant ❤️.
+Merci d’avoir pris le temps de visiter mon profil ✨ ! Si tu veux discuter d'anime, de manga ou de projets de code, je suis toujours partant ❤️.
 
 さようなら~ (Sayonara~)
