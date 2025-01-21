@@ -24,14 +24,18 @@ Je suis aussi ouvert d'esprit et toujours ouvert a la discussion avec les autres
 
 ## 📂 Projets sur lesquels je travaille
 
-### 🌸 Bot Discord "Mangabot"
+### 🌸 Bot Discord pour le "Prix Manga Addict" de la libraibrie [*Le Camphrier*](https://www.librairielecamphrier.fr/)
 - Gère les profils des membres de mon club manga.
 - Permet une personnalisation unique pour chaque utilisateur.
 - Données sauvegardées indépendamment pour chaque serveur Discord.
 
+### ⭐ Wiki Scott Pilgrim réalisé pour ma classe de NSI
+- Wiki assez simple sur la série Netflix "Scott Pilgrim Prend son Envol"
+
 ## 🌟 Reste en contact
-- **Discord :** Mangaka#1234 *(ou ton pseudo)*
-- **GitHub :** Explore mes projets et n’hésite pas à contribuer ou à discuter avec moi.
+- **Discord :** happysunnysun
+- **Youtube :** https://youtube.com/@happysunnysun_
+- **Twitch :**
 
 Merci d’avoir pris le temps de visiter mon profil ✨ ! Si tu veux discuter d'anime, de manga ou de projets de code, je suis toujours partant ❤️.
 
