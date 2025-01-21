@@ -18,24 +18,20 @@ Je suis aussi ouvert d'esprit et toujours ouvert a la discussion avec les autres
 
 ## 🛠️ Langages de programmation
 
-- **Python** 🐍
-- **JavaScript** 📜
-- **HTML/CSS** 🌐
+- **Python** 🐍 _(en train d'apprendre)_
+- **JavaScript** 📜 _(en train d'apprendre)_
+- **HTML/CSS** 🌐 _(en train d'apprendre)_
 
 ## 📂 Projets sur lesquels je travaille
 
 ### 🌸 Bot Discord pour le "Prix Manga Addict" de la libraibrie [*Le Camphrier*](https://www.librairielecamphrier.fr/)
-- Gère les profils des membres de mon club manga.
-- Permet une personnalisation unique pour chaque utilisateur.
-- Données sauvegardées indépendamment pour chaque serveur Discord.
-
 ### ⭐ Wiki Scott Pilgrim réalisé pour ma classe de NSI
-- Wiki assez simple sur la série Netflix "Scott Pilgrim Prend son Envol"
 
 ## 🌟 Reste en contact
 - **Discord :** happysunnysun
-- **Youtube :** https://youtube.com/@happysunnysun_
-- **Twitch :**
+- **Youtube :** https://youtube.com/@happysunnysun
+- **Twitch :** https://twitch.tv/happysunnysun_
+- **Blussky:** https://bsky.app/profile/happysunnysun.bsky.social
 
 Merci d’avoir pris le temps de visiter mon profil ✨ ! Si tu veux discuter d'anime, de manga ou de projets de code, je suis toujours partant ❤️.
 
