@@ -33,6 +33,6 @@ Je suis aussi ouvert d'esprit et toujours ouvert a la discussion avec les autres
 - **Twitch :** https://twitch.tv/happysunnysun_
 - **Blussky:** https://bsky.app/profile/happysunnysun.bsky.social
 
-Merci d’avoir pris le temps de visiter mon profil ✨ ! Si tu veux discuter d'anime, de manga ou de projets de code, je suis toujours partant ❤️.
+Merci d’avoir pris le temps de visiter mon profil ✨ !
 
 さようなら~ (Sayonara~)
