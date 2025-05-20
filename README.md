@@ -24,7 +24,7 @@ Je suis aussi ouvert d'esprit et toujours ouvert a la discussion avec les autres
 
 ## 📂 Projets sur lesquels je travaille
 
-- 🌸 Bot Discord pour le "Prix Manga Addict" de la libraibrie [*Le Camphrier*](https://www.librairielecamphrier.fr/)
+- 🌸 Bot Discord pour le "Prix Manga Addict" de la librairie [*Le Camphrier*](https://www.librairielecamphrier.fr/)
 - ⭐ Wiki Scott Pilgrim réalisé pour ma classe de NSI
 
 ## 🌟 Reste en contact
