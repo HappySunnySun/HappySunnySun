@@ -4,7 +4,7 @@ Hey~! Bienvenue sur mon profil GitHub !
 
 ## 👤 À propos de moi
 
-Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir développeur informatique (domaine à définir :3). Dans la vie j'aime lire des mangas et regarder des animes, écouter **beaucoup** de musique.
+Moi c'est Sun, j'ai 18 ans et je suis en train de faire des études pour devenir développeur informatique (domaine à définir :3). Dans la vie j'aime lire des mangas et regarder des animes, écouter **beaucoup** de musique.
 
 - Mon film préféré : Elémentaire 💧🔥❤️
 - Ma série préférée : Scott Pilgrim Prend Son Envol (Wallace Wells le GOAT)
