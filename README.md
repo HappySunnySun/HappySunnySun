@@ -12,8 +12,7 @@ Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir
 - Mon artiste préféré : [CG5](https://www.youtube.com/@CG5/videos)
 - Mon anime préféré : Spy X Familly
 
-Voilà ma playlist avec mes sons favoris ✨ : https://www.deezer.com/us/playlist/13385903223
-
+Voilà ma playlist avec mes sons favoris ✨ : https://music.apple.com/library/playlist/p.YJXV7bvI5QqNekr
 Je suis aussi ouvert d'esprit et toujours ouvert a la discussion avec les autres !
 
 ## 🛠️ Langages de programmation
@@ -28,7 +27,7 @@ Je suis aussi ouvert d'esprit et toujours ouvert a la discussion avec les autres
 - ⭐ Wiki Scott Pilgrim réalisé pour ma classe de NSI
 
 ## 🌟 Reste en contact
-- **Discord :** happysunnysun
+- **Discord :** happysunnysun_
 - **Youtube :** https://youtube.com/@happysunnysun
 - **Twitch :** https://twitch.tv/happysunnysun_
 - **Blussky:** https://bsky.app/profile/happysunnysun.bsky.social
