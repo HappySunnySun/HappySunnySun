@@ -13,6 +13,7 @@ Moi c'est Sun, j'ai 17 ans et je suis en train de faire des études pour devenir
 - Mon anime préféré : Spy X Familly
 
 Voilà ma playlist avec mes sons favoris ✨ : https://music.apple.com/library/playlist/p.YJXV7bvI5QqNekr
+
 Je suis aussi ouvert d'esprit et toujours ouvert a la discussion avec les autres !
 
 ## 🛠️ Langages de programmation
